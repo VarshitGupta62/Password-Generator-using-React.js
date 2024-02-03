@@ -1,0 +1,37 @@
+body{
+    background-color: #333;
+}
+/* Styles for the container */
+ .container {
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(210, 180, 180, 0.1);
+    border-radius: 8px;
+    background-color: aliceblue;
+    overflow: hidden;
+    margin-top: 4%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 41px;
+  }
+
+  /* Styles for the input field */
+  .password-input {
+    width: 75%; 
+    padding: 8px;
+    border: none;
+    outline: none;
+    color: #333;
+    font-size: 16px;
+  }
+
+  /* Styles for the copy button */
+  .copy-button {
+    background-color: #4A90E2;
+    color: #fff;
+    padding: 8px;
+    font-size: 16px;
+    width: 18%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  } 
